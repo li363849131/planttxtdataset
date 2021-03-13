@@ -5,11 +5,13 @@
 第一版，现将我准备好的两个文本数据集贡献出来。
 
 1. fliavia 
+
   图像数据集从http://flavia.sourceforge.net/
   
   对应的txt的数据集见 flivia文件夹
+  
 2. ICL 
-3. 
+ 
   图像数据集有需要的朋友给我发邮件吧。200多M。
   
   对应的txt的数据集见ICL 文件夹 
